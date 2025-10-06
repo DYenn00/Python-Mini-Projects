@@ -1,7 +1,7 @@
 # Python Mini Projects
 
 
-Hi, 💗 I created some mini java projects for you to try! 
+Hi, 💗 I created some mini python projects for you to try! 
 
 Just paste the code into your complier or run it with bash! 
 
